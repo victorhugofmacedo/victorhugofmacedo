@@ -12,6 +12,8 @@ Pronome: Ele/Dele
   <p>Html Java </p>
 </div>
 
+<img src="gif vitor.gif" widht="100px" aling="right">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=victorhugofmacedo&show_icons=true&theme=dark"
