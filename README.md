@@ -24,4 +24,7 @@ Pronome: Ele/Dele
   <img src="https://github-readme-stats.vercel.app/api?username=victorhugofmacedo&show_icons=true" />
 </picture>
 
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/victorhugofmacedo/victorhugofmacedo/output/snake.svg" alt="Snake animation" />
 
